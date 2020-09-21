@@ -52,11 +52,12 @@ table{
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   min-width: 125px;
   padding: 10px;
   text-align: center;
+  vertical-align: middle;
   text-transform: uppercase;
 }
 
@@ -106,5 +107,8 @@ footer{
   text-align:center;
   color: #FFFFFF;
   min-height: 75px;
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
 }
 
